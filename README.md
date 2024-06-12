@@ -1,2 +1,6 @@
 # Customer_Churn_Project
 This project presents a comprehensive analysis and prediction of customer churn through Exploratory Data Analysis and various Machine Learning models. 
+# Summary
+This notebook is focused on understanding and predicting customer churn, a critical issue for businesses with subscription-based revenue models. Customer churn occurs when customers stop using a company's products or services, affecting profitability. By conducting Exploratory Data Analysis (EDA), the notebook identifies and visualizes key factors contributing to churn, providing insights into service issues and customer dissatisfaction. This analysis aids in making strategic decisions to enhance customer retention and satisfaction.
+
+In addition to EDA, the notebook employs several Machine Learning models to predict customer churn, emphasizing recall to ensure accurate identification of potential churners. The methodologies used include data visualization, data preprocessing (feature selection, encoding, scaling), and addressing class imbalance with SMOTE. The models implemented include Decision Tree, Random Forests, Gradient Boosting, XGBoost, and LightGBM, showcasing a robust approach to predictive analytics. These technologies and techniques collectively aim to equip businesses with the tools to proactively address churn and improve customer loyalty.
